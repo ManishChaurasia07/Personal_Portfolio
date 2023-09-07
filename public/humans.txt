@@ -1,0 +1,53 @@
+      /\  /\
+     /\ \/\ \
+    / /\ \/\ \
+   /_/  \_\ \_\ 
+
+ © Copyright Holder - Manish Chaurasia
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER
+
+MANISH CHAURASIA 
+Web Developer & Designer
+
+Tools used:
+Canva
+Photoshop
+Blender
+_________________________________________________________________________________
+
+SOCIAL MEDIA HANDLE(Show me some Support) - 
+
+Github - https://github.com/ManishChaurasia07
+Fiverr - https://www.fiverr.com/manishchaura827/make-a-website-as-per-your-requirement?gig_id=305903185&utm_campaign=base_gig_create_share&utm_content=&utm_medium=shared&utm_source=get_url&utm_term=&view=gig
+Support - https://www.buymeacoffee.com/manishchaurasia
+_______________________________________________________________________________
+
+SKILLS -
+
+React
+JavaScript
+Next.js
+Three.js
+Framer Motion
+Blender
+
+_______________________________________________________________________________
+
+FONTS -
+
+Bodoni
+Helvetica
+Avenir
+Gotham
+Hiragino Kaku Gothic
+
+
+Note - I do not give permission to present any of my projects as your own (this is being actively used as my portfolio site and these are my real projects I've worked on).
+
+Copyright © 2023 Manish. All rights reserved.
