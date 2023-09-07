@@ -69,3 +69,6 @@ I do not give permission to present any of my projects as your own (this is bein
   
   It's set up using a serverless function with AWS Lambda. You'll need to set up an AWS account and deploy the function. [Refer to this issue for more details](https://github.com/ManishChaurasia07/portfolio/issues/21#issuecomment-958727113).
 </details>
+=======
+# Personal_Portoflio
+>>>>>>> 51144866d1fe679c3c4813a73739e8a21c5a0364
