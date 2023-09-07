@@ -1,6 +1,6 @@
 # Personal portfolio
 
-[![Site preview](https://github.com/ManishChaurasia07/DMPSECOCLUB/blob/master/public/Screenshot%202023-09-07%20123053.png)](https://manishchaurasia.netlify.app/)
+[![Site preview](https://github.com/ManishChaurasia07/Personal_Portoflio/blob/main/public/site-preview.png)](https://manishchaurasia.netlify.app/)
 
 My design portfolio to showcase a few projects. Built with [Next.js](https://nextjs.org/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://manishw.com) or check out a live version of the [components storybook](https://storybook.manishw.com).
 
